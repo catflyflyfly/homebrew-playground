@@ -1,4 +1,4 @@
-class OpenjdkAT11 < Formula
+class OpenjdkAT11022 < Formula
   desc "Development kit for the Java programming language"
   homepage "https://openjdk.java.net/"
   url "https://github.com/openjdk/jdk11u/archive/refs/tags/jdk-11.0.22-ga.tar.gz"
